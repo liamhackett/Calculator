@@ -25,7 +25,7 @@ class Calculator:
         master.title('Calculator')
 
         # This sets the initial size of the window when launched
-        master.geometry("390x375")
+        master.geometry("525x425")
 
         master.resizable(0, 0)
 
